@@ -24,7 +24,7 @@
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
->[프로젝트 상세 설명](https://github.com/rudfufs/testio.io) 참고
+>[프로젝트 상세 설명](https://github.com/rudfufs/testio.io/blob/dcec56594e2fc674b31e00a91b393824cf77d9d9/index.html#L19) 참고
 
 ---
 
