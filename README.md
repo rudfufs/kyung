@@ -1,15 +1,15 @@
-# 정형 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+# 경렬 포트폴리오
+> 나를 만들어가는 시간 
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요 이경렬입니다. 장난기가 많고 언제나 즐겁게 생활하기 위해 노력하고 있습니다
 
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
+- 이메일: rudfufs11@gmail.com
 - 블로그: 
 - 깃헙: https://github.com/JungHyung2
 
