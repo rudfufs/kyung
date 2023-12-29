@@ -16,7 +16,7 @@
 </br>
 
 ## :pushpin: 스마트인재개발원에서 실행한 미니 프로젝트
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-BigData2/Escape)
+### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/Escape)
 > Escape
 >개발 기간: 2023.09.21 ~ 2023.09.25  
 >  
