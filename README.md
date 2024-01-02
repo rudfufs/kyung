@@ -12,9 +12,9 @@
 
 ## 📌 : 기술 스택
 ### Backend 
-Java / Spring / python 
+Java / python / Spring 
 ### Frontend
-HTML / CSS / JS / React / JavaScript
+HTML / CSS / JS / JavaScript / React
 ### DB
 Oracle / MySQL
 ### Server
