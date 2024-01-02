@@ -27,7 +27,7 @@ Tomcat
 
 </br>
 
-## :pushpin: 스마트인재개발원 미니 프로젝트
+## :pushpin: 스마트인재개발원 프로젝트
 ### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/Escape)
 > Escape Java와 DB만 배운 우리들의 첫번째
 >개발 기간: 2023.09.21 ~ 2023.09.25  
