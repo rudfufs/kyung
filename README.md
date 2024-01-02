@@ -11,13 +11,13 @@
 </br>
 
 ## 📌 : 기술 스택
-#### Backend 
+### Backend 
 Java / python / Spring 
-#### Frontend
+### Frontend
 HTML / CSS / JS / JavaScript / React
-#### DB
+### DB
 Oracle / MySQL
-#### Server
+### Server
 Tomcat 
 
 ## :pushpin: Contact
@@ -29,25 +29,26 @@ Tomcat
 
 ## :pushpin: 스마트인재개발원 프로젝트
 ### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/Escape)
-> Escape Java와 DB만 배운 우리들의 첫번째
+> Escape Java와 DB를 배운 우리들의 첫 번째 프로젝트
 >개발 기간: 2023.09.21 ~ 2023.09.25  
 >  
 >기술 스택:  
->Java, oracle  
+>Java, oracle
 > 
->  
+>  팀 프로젝트 1등
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-BigData2/Escape) 참고
 
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/p_gamers)
-> RPG 게이머를 위한 레이드 파티 일정관리 시스템(팀 프로젝트)  
+> RPG 게이머를 위한 레이드 파티 일정관리 시스템 
 >개발 기간: 2023.10.30 ~ 2023.11.30  
 >  
 >기술 스택:  
 >Java17 / OracleSQLDeveloper / Apache Tomcat9.0 / JSP, Servlet / MyBatis
 > JavaScript / CSS / Fullcalender.api / jQuery / Ajax / json / HTML
->  
+> 
+>  팀 프로젝트 1등
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-BigData2/p_gamers) 참고
 
 ---
