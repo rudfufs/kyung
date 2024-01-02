@@ -11,13 +11,13 @@
 </br>
 
 ## 📌 : 기술 스택
-### Backend 
+#### Backend 
 Java / python / Spring 
-### Frontend
+#### Frontend
 HTML / CSS / JS / JavaScript / React
-### DB
+#### DB
 Oracle / MySQL
-### Server
+#### Server
 Tomcat 
 
 ## :pushpin: Contact
