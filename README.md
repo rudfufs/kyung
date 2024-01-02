@@ -25,17 +25,21 @@ Tomcat
 - 블로그: 
 - 깃헙: https://github.com/rudfuf
 
+## :pushpin: 수상경력
+### 스마트인재개발원
+미니프로젝트 1등 </br>
+핵심프로젝트 1등 </br>
 </br>
 
 ## :pushpin: 스마트인재개발원 프로젝트
 ### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/Escape)
-> Escape Java와 DB를 배운 우리들의 첫 번째 프로젝트
+> Escape Java와 DB를 배운 우리들의 미니 프로젝트
 >개발 기간: 2023.09.21 ~ 2023.09.25  
 >  
 >기술 스택:  
 >Java, oracle
 > 
->  팀 프로젝트 1등
+> 
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-BigData2/Escape) 참고
 
 ---
@@ -48,7 +52,7 @@ Tomcat
 >Java17 / OracleSQLDeveloper / Apache Tomcat9.0 / JSP, Servlet / MyBatis
 > JavaScript / CSS / Fullcalender.api / jQuery / Ajax / json / HTML
 > 
->  팀 프로젝트 1등
+> 
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-BigData2/p_gamers) 참고
 
 ---
