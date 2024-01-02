@@ -10,6 +10,10 @@
 
 </br>
 
+## 📌 : 기술 스택
+### Backend 
+Java / Spring / 
+
 ## :pushpin: Contact
 - 이메일: rudfufs11@gmail.com
 - 블로그: 
