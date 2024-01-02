@@ -5,6 +5,8 @@
 
 ## :pushpin: Intro
 안녕하세요 이경렬입니다.
+새로운 지식을 배워나감에 즐거움을 느끼며,
+열정과 끈기를 가진 개발자 입니다.
 
 </br>
 
@@ -15,13 +17,13 @@
 
 </br>
 
-## :pushpin: 스마트인재개발원에서 실행한 미니 프로젝트
+## :pushpin: 스마트인재개발원 미니 프로젝트
 ### 1. [첫 번째 프로젝트](https://github.com/2023-SMHRD-IS-BigData2/Escape)
-> Escape
+> Escape Java와 DB만 배운 우리들의 첫번째
 >개발 기간: 2023.09.21 ~ 2023.09.25  
 >  
 >기술 스택:  
->Java 8, oracle  
+>Java, oracle  
 > 
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-BigData2/Escape) 참고
