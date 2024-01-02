@@ -12,7 +12,13 @@
 
 ## 📌 : 기술 스택
 ### Backend 
-Java / Spring / 
+Java / Spring / python 
+### Frontend
+HTML / CSS / JS / React / JavaScript
+### DB
+Oracle / MySQL
+### Server
+Tomcat 
 
 ## :pushpin: Contact
 - 이메일: rudfufs11@gmail.com
