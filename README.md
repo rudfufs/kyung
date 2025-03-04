@@ -13,8 +13,7 @@
 ## 💾 : 기술 스택
 ### Backend 
 Java / python / Spring 
-### Frontend
-HTML / CSS / JS / JavaScript / React
+
 ### DB
 Oracle / MySQL
 ### Server
